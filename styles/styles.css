@@ -1,0 +1,60 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: #555555;
+    background-color: rgb(251, 251, 160);
+
+}
+li{
+font-style: italic;
+font-size: 14px;
+font-weight: normal;
+}
+a{
+color: red ;
+text-decoration: none;
+}
+a:hover{
+text-decoration: underline;
+/* font-weight: bold;
+font-size: 18px; */
+}
+a:visited{
+color:cadetblue;
+}
+.resumelistheading{
+font-weight: bold;
+font-style: normal;
+color: dodgerblue;
+}
+.cartext{
+    font-weight: normal;
+    font-style: normal;
+    color: #555555;
+}
+.underline{text-decoration: underline;}
+.bold{font-weight: bold;}
+.justify{text-align: justify;}
+.f1edit{
+    color: cadetblue;
+}
+.homebg{
+background-image: url('../images/background.jpg');
+background-position: top right;
+background-repeat:no-repeat;
+background-size:auto;
+}
+
+.box1{
+border-width: 1px;
+border-style: solid;
+border-color: red;
+}
+
+.box2{
+padding: 5px;
+}
+
+.box3{
+margin: 50px;
+}
